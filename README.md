@@ -51,7 +51,9 @@ The second ask focused on  the same information except it focused on a different
         - 77 for the 4,502 technique leaders
         - 66 for the 1,761 assistant engineers
         - 0 for the 2 managers retiring
-    - With this being said, there are not enough eligible mentors for each of the categories. Senior Engineers should have the most mentors, but is one of the lowest and there are not mentors for managers. The company will likely need to expand the birth_date criteria to capture those who could mentor employees given 90,398 are set to retire soon.
+    - With this being said, there are not enough eligible mentors for each of the categories. 
+    - Senior Engineers should have the most mentors, but is one of the lowest and there are not mentors for managers. 
+    - The company will likely need to expand the birth_date criteria to capture those who could mentor employees given 90,398 are set to retire soon.
 
 
 
