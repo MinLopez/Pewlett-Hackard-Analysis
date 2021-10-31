@@ -38,8 +38,11 @@ The second ask focused on  the same information except it focused on a different
 ## Summary
 - **How many roles will need to be filled as the "silver tsunami" begins to make an impact?**
     - 90,398 employees are set to retire in the coming years.
+
 - **Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?**
+
 ![Resources/Mentorship_Count.png](Resources/Mentorship_Count.png) *TABLE 5 Mentorship List*
+
     - Adding to my existing code, I added count for total employee numbers eligible for the mentorship program that were born in 1965. Compared to the retiring list wth unique titles as seen in TABLE 4, there are the following available mentors for soon to be open roles with employees soon set to retire.
         - 239 for the 29,414 senior engineers
         - 451 for the 28,254 senior staff (which is more than senior engineers which was the highest of retirees)
@@ -48,7 +51,7 @@ The second ask focused on  the same information except it focused on a different
         - 77 for the 4,502 technique leaders
         - 66 for the 1,761 assistant engineers
         - 0 for the 2 managers retiring
-    -With this being said, there are not enough eligible mentors for each of the categories. Senior Engineers should have the most mentors, but is one of the lowest and there are not mentors for managers. The company will likely need to expand the birth_date criteria to capture those who could mentor employees given 90,398 are set to retire soon.
+    - With this being said, there are not enough eligible mentors for each of the categories. Senior Engineers should have the most mentors, but is one of the lowest and there are not mentors for managers. The company will likely need to expand the birth_date criteria to capture those who could mentor employees given 90,398 are set to retire soon.
 
 
 
