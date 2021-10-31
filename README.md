@@ -38,7 +38,7 @@ The second ask focused on  the same information except it focused on a different
 ## Summary
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-    - 90,398 employees are set to retire in the coming years.
+-90,398 employees are set to retire in the coming years.
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
